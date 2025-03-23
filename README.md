@@ -1,8 +1,8 @@
-# Awesome Discord <> Linear Integration
+# Create AI based Linear issues from Discord
 
-Create Linear issues from Discord conversations using the `/autoissue` command. AI uses the conversation context to generate a meaningful issue title and description.
+Use the `/autoissue` command on Discord, then the bot reads the conversation context to generate a meaningful issue title and description.
 
-AI generates title, description, priority, and assignee.
+The AI automatically prefills title, description, priority, and assignee.
 
 ![Autoissue Demo](resources/AwesomeDiscordLinear.gif)
 
@@ -59,3 +59,6 @@ You'll need to setup the Discord bot, authorize Linear, and provide an OpenAI AP
    - Generate a title and description using AI
    - Create a Linear issue in your default team
    - Return a link to the created issue
+
+
+## That's it! :tada:
